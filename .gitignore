@@ -1,7 +1,8 @@
 /target
-.env
 *.optimized.wasm
 .stellar/
 .agents/
 issue.md
 skills-lock.json
+config.bat
+node_modules
